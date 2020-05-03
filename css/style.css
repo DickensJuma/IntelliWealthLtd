@@ -84,24 +84,24 @@
 }
 
 .font-gray-1 {
-  color: #f7f7f7;
+  color: #080a66;
 }
 
 .font-gray-2 {
-  color: #e9e9e9;
+  color: #5a0303;
 }
 
 .font-gray-3 {
-  color: #d9d9d9;
+  color: #3d0303;
 }
 
 .font-gray-4 {
-  color: #c9c9c9;
+  color: #070c52;
 }
 
 .font-gray-5,
 .block-heading-1 span {
-  color: #b8b8b8;
+  color: #5f0303;
 }
 
 .font-gray-6 {
@@ -308,6 +308,7 @@ h5,
     "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol", "Noto Color Emoji";
 }
+
 
 #more {
   display: none;
